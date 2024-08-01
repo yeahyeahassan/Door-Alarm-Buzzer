@@ -21,8 +21,6 @@ SecureTone enhances security by providing instant alerts when a door is opened.
 - 1x Buzzer
 - 1x Resistor
 
-## Circuit Diagram
-[View Diagram](https://lnkd.in/gKKymaSj)
 
 ## Working Principle
 1. **Power Supply:** The system is powered by a 9V battery or adapter.
